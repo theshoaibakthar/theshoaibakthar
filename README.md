@@ -1,6 +1,8 @@
 <h1 align="center">Hey, I'm Shoaib</h1>
 <h3 align="center">Senior Data Analyst | 5x Microsoft Certified | Builder</h3>
 
+<img width="879" height="168" alt="image" src="https://github.com/user-attachments/assets/ee3a9b61-a2f2-4adc-8e83-0c87f4b6a80c" />
+
 ## Skills
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,matplotlib,seaborn,sklearn,selenium,streamlit,tensorflow,pytorch,huggingface,langchain,fastapi,postgres,mysql,azure,docker,git,linux,excel,pbi,fabric,chatgpt,ollama,mlflow,googlecolab,vscode,jupyter&titles=true)
