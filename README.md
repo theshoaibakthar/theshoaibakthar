@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shoaib</h1>
+<h1 align="center">Hey, I'm Shoaib</h1>
 <h3 align="center">Senior Data Analyst | 5x Microsoft Certified | Builder</h3>
 
 <p align="left"> 
@@ -34,7 +34,7 @@
 </p>
 
 ## Skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,scikitlearn,tensorflow,powerbi,fabric,postgresql,mysql,excel,fastapi,huggingface,langchain,chatgpt,ollama,azure,mlflow,streamlit,googlecolab&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,matplotlib,seaborn,scikitlearn,tensorflow,selenium,,streamlit,nltk,excel,power-bi,fabric,azure,postgresql,mysql,fastapi,huggingface,langchain,chatgpt,ollama,mlflow,googlecolab,jupyternotebook,vscode&titles=true)
 
 
 ## Coding
