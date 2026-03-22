@@ -48,9 +48,9 @@
   <a href="https://theshoaibakthar.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=link&logoColor=white" alt="Personal Website" />
   </a>
-  <a href="https://medium.com/@theshoaibakthar" target="_blank">
+  <!-- <a href="https://medium.com/@theshoaibakthar" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
+  </a> -->
 </p>
 
 📫 Reach out to me at **shoaibakthar.work@gmail.com**
