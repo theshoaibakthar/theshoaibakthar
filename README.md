@@ -34,30 +34,8 @@
 </p>
 
 ## 🛠️ Skills
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,scikitlearn,tensorflow,powerbi,fabric,postgresql,mysql,excel,fastapi,huggingface,langchain,chatgpt,ollama,azure,mlflow,streamlit,googlecolab&titles=true)
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-### Software & Tools
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![postgresSQL](https://img.shields.io/badge/postgresSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![SQL Developer](https://img.shields.io/badge/SQL_Developer-F80000?style=flat&logo=oracle&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vs-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-
-### Frameworks & Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ## 🧑🏻‍💻 Coding
 
