@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shoaib</h1>
-<h3 align="center">Certified Data Analyst with 3+ years of experience</h3>
+<h3 align="center">Senior Data Analyst | 5x Microsoft Certified | Builder</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=datawithshoaib&label=Profile%20views&color=0e75b6&style=flat" alt="datawithshoaib" />
@@ -7,7 +7,7 @@
 
 - 📫 Reach out to me at **shoaibakthar.work@gmail.com**
 
-## 🤝 Connect with me
+## Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/theshoaibakthar" target="_blank">
@@ -33,11 +33,11 @@
   </a>
 </p>
 
-## 🛠️ Skills
+## Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,scikitlearn,tensorflow,powerbi,fabric,postgresql,mysql,excel,fastapi,huggingface,langchain,chatgpt,ollama,azure,mlflow,streamlit,googlecolab&titles=true)
 
 
-## 🧑🏻‍💻 Coding
+## Coding
 
 <p align="left">
     <a href="https://www.leetcode.com/shoaibcodes" target="_blank">
