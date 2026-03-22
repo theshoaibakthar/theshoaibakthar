@@ -34,7 +34,7 @@
 </p>
 
 ## Skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,matplot,tensorflow,pytorch,sklearn,selenium,streamlit,fastapi,postgres,mysql,azure,huggingface,docker,git,linux,vscode,jupyter,pycharm&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,matplot,sklearn,selenium,streamlit,tensorflow,pytorch,keras,huggingface,langchain,fastapi,postgres,mysql,azure,docker,git,linux,excel,powerbi,fabric,vscode,jupyter&titles=true)
 
 ## Coding
 
