@@ -30,25 +30,25 @@
 ## Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/theshoaibakthar" target="_blank">
+  <a href="https://linkedin.com/in/shoakt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/theshoaibakthar" target="_blank">
+  <a href="https://x.com/shoakt_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
   </a>
 <!--   <a href="https://fb.com/datawithshoaib" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/theshoaibakthar" target="_blank">
+  <a href="https://instagram.com/datawithshoaib" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@theshoaibakthar" target="_blank">
+  <a href="https://www.youtube.com/@datawithshoaib" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a> -->
-  <a href="https://theshoaibakthar.github.io/" target="_blank">
+  <a href="https://shoakt.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=link&logoColor=white" alt="Personal Website" />
   </a>
-  <!-- <a href="https://medium.com/@theshoaibakthar" target="_blank">
+  <!-- <a href="https://medium.com/@shoakt" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a> -->
 </p>
